@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Aqib
 
-### Full Stack + AI Engineer | 4+ Years Experience | Staff Engineer Mindset
+### Full Stack + AI Engineer | 4+ Years Experience | 
 
 I build production-ready, AI-driven applications that solve real-world problems. Currently on a 90-day intensive sprint to push the boundaries of AI Engineering and System Design.
 
@@ -32,7 +32,3 @@ I build production-ready, AI-driven applications that solve real-world problems.
 
 ---
 
-### 📫 Let's Connect
-
-- **LinkedIn:** [Your Profile Link]
-- **Email:** [Your Email]
